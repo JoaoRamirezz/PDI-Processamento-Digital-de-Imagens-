@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Lucas Freire/Front"
+		},
+		{
+			"path": "../../../JoaoJS"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "JoaoJS"
+	}
+}
